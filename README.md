@@ -7,6 +7,8 @@ at any time via the **Language** menu.
 
 *Dedicated to my cat Lulu.*
 
+![Johnny – main window while running the multiplication example](docs/main-window.png)
+
 ## Download and start
 
 1. Download `Johnny.exe` from **Releases**.
@@ -35,6 +37,21 @@ not been tested.
 Micro instructions, their numbers, the microcodes and the file formats (`.ram`,
 `.bma`, `.bij`, `.mpc`, `.nam`) match the original exactly. Programs can be
 exchanged between both versions.
+
+## Screenshots
+
+**Control unit hidden** – like in the original, students then operate the
+computer by hand with the micro instruction buttons:
+
+![Control unit hidden](docs/control-unit-hidden.png)
+
+**German user interface** (menu *Language*), running the maximum example:
+
+![German user interface](docs/german.png)
+
+**Microcode editor** – the micro programs of all instructions as a table:
+
+![Microcode editor](docs/microcode-editor.png)
 
 ## Building it yourself
 
